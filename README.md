@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Hey there! I'm Omaro.</h2>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Information and Comunication Technology and Vocational and Training Development Insitute.
+- 🌱 &nbsp; Learning more FullStack Technology and Frameworks.
+- ✍️ &nbsp; Pursuing Software Engineering and Networking.
 <br/>
 
 <a href="https://github.com/ogeeDeveloper">
