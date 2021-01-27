@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Omaro.</h2> [![HitCount](http://hits.dwyl.com/ogeeDeveloper/{project}.svg)](http://hits.dwyl.com/ogeeDeveloper/{project}) <br>
+<h2> Hey there! I'm Omaro.</h2> 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
+[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br> <br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
