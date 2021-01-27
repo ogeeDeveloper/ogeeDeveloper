@@ -12,11 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+<a href="https://github.com/ogeeDeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogeeDeveloper&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeeDeveloper&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/developerog" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
+    <a href="https://twitter.com/DeveloperOgee" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/ogeedeveloper/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.instagram.com/meenitish" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
   <a href="https://dev.to/ogeedeveloper" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
