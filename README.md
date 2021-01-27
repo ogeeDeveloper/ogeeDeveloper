@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hey there! I'm Omaro.</h2> 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
-[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br> <br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -27,6 +25,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/ogeeDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogeeDeveloper&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeeDeveloper&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+<a href="https://github.com/ogeeDeveloper">
+  <img src="https://img.shields.io/github/followers/ogeeDeveloper">
+</a>
+<a href="https://github.com/ogeeDeveloper">
+   <img src="https://komarev.com/ghpvc/?username=ogeeDeveloper">
 </a>
 
 <br/>
