@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Omaro.</h2> ![visitors](https://visitor-badge.glitch.me/badge?page_id=ogeeDeveloper.ogeeDeveloper)
-[![HitCount](http://hits.dwyl.com/ogeeDeveloper/ogeeDeveloper/ogeeDeveloper.svg)](http://hits.dwyl.com/ogeeDeveloper/ogeeDeveloper/ogeeDeveloper) <br>
+<h2> Hey there! I'm Omaro.</h2> [![HitCount](http://hits.dwyl.com/ogeeDeveloper/{project}.svg)](http://hits.dwyl.com/ogeeDeveloper/{project}) <br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
