@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currenntly Studying Information and Comunication Technology and Vocational and Training Development Insitute.
+- 🎓 &nbsp; Currenntly Studying Information and Comunication Technology at the Vocational and Training Development Insitute.
 - 🌱 &nbsp; Learning more FullStack JavaScript and it's frameworks and libraries.
 - ✍️ &nbsp; Pursuing education in Software Engineering and Networking.
 <br/>
